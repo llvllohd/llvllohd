@@ -36,6 +36,6 @@
 ---
 
 
-[twitter]: https://twitter.com/asif.ahmad96
+[twitter]: https://twitter.com/asfahmad96
 [instagram]: https://instagram.com/asif.ahmad96
 [linkedin]: https://linkedin.com/in/asif-ahmed-6637b5148
