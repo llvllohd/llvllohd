@@ -34,29 +34,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme) -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="llvllohd Github Stats" src="https://github-readme-stats.llvllohd.vercel.app/api?username=llvllohd&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/asif.ahmad96
 [instagram]: https://instagram.com/asif.ahmed96
