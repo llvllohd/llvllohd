@@ -1,5 +1,10 @@
 ### Hi there, I'm Asif Ahmed. 👋
 
+
+[![](https://img.shields.io/badge/-@AsifAhmed-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)][twitter] 
+[![](https://img.shields.io/badge/-@AsifAhmed-%23181717?style=flat-square&logo=github)](https://github.com/llvllohd)
+
+
 ### I'm a Full stack developer - [MERN].
 
 - 🔭 I’m currently looking for new opportunities
