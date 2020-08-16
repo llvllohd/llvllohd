@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/-@AsifAhmed-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)][twitter] 
 [![](https://img.shields.io/badge/-@AsifAhmed-%23181717?style=flat&logo=github)](https://github.com/llvllohd)
-![](https://visitor-badge.glitch.me/badge?page_id=llvllohd.llvllohd)<img src="https://komarev.com/ghpvc/?username=llvllohd" alt="llvllohd"/>
+![](https://visitor-badge.glitch.me/badge?page_id=llvllohd.llvllohd) <img src="https://komarev.com/ghpvc/?username=llvllohd" alt="llvllohd"/> </p>
 
 ### I'm a Full stack developer - [MERN].
 
